@@ -1,4 +1,5 @@
-## Objectives: To kickstart the development of your rick and morty application using Next.js, you will set up a new project with TypeScript, ESLint, and Tailwind CSS.
+## Objectives: 
+This project implements an Error Boundary component in a Next.js application to gracefully handle JavaScript errors that occur during rendering. The solution includes creating an ErrorBoundary class component, integrating it with the application, testing it with an error-prone component, and adding error monitoring with Sentry.
 
 ## Instructions:
 
@@ -8,3 +9,6 @@ Install the following dependencies:
 
 npm install @apollo/client graphql
 npm install @types/graphql
+
+## Results
+ErrorBoundary.tsx file provides a logged error in your monitoring service.

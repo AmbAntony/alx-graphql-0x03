@@ -9,7 +9,9 @@
     "lint": "eslint"
   },
   "dependencies": {
-    "@apollo/client": "^4.0.1",
+    "@apollo/client": "^4.0.0",
+    "@sentry/nextjs": "^10.12.0",
+    "@sentry/react": "^10.12.0",
     "@types/graphql": "^14.2.3",
     "graphql": "^16.11.0",
     "next": "15.5.2",
